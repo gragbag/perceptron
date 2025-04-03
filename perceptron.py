@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Julian Fong
 # FILENAME: perceptron.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: Creating a perceptron and MLP using varying learning rates and shuffling to find the highest accuracy one
 # FOR: CS 4210- Assignment #3
 # TIME SPENT: 1 hour
 #-----------------------------------------------------------*/
